@@ -1,6 +1,6 @@
-## Linux VM Cluster
+# Linux VM Cluster
 
-📌 **Objective**
+## 📌 Objective
 The goal of this project is to simulate a distributed computing environment by creating and configuring a virtualized cluster of three Ubuntu Server VMs using VirtualBox. The main objectives include:
 - Creating and configuring three Ubuntu Server virtual machines.
 - Establishing a dual-network setup using NAT (for internet access) and an internal network (for inter-node communication).
@@ -11,7 +11,7 @@ The goal of this project is to simulate a distributed computing environment by c
 
 
 
-💡 **Skills Learned:**
+## 💡 Skills Learned
 - Virtual machine provisioning and configuration
 - Network design and subnet configuration
 - Static IP assignment and hostname resolution using Netplan
@@ -20,7 +20,7 @@ The goal of this project is to simulate a distributed computing environment by c
 - Building foundational infrastructure for distributed systems
 
 
-🔧 **Tools Used:**
+## 🔧 Tools Used
 - Oracle VirtualBox – to create and manage virtual machines
 - Ubuntu Server – for lightweight, terminal-based VM operating systems
 - Netplan – for configuring network interfaces and static IP addresses
@@ -28,7 +28,7 @@ The goal of this project is to simulate a distributed computing environment by c
 - Command-line tools – such as ping, ip a, nano, and hostnamectl for system configuration and verification
 
 
-📂 **Lab Documentation:**
+## 📂 Lab Documentation
 
 - <a href="https://github.com/nadiansh/Linux-VM-Cluster/blob/main/Linux%20VM%20Cluster.pdf">Linux VM Cluster Lab Documentation</a>
 
