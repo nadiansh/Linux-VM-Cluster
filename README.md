@@ -36,3 +36,10 @@ The goal of this project is to simulate a distributed computing environment by c
 ## Network Topology
 
 ![image alt](https://github.com/nadiansh/Linux-VM-Cluster/blob/main/NT.jpeg?raw=true)
+
+##
+
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Oracle-blue?logo=virtualbox&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
+
